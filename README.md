@@ -76,4 +76,6 @@ Os resultados são estimativas baseadas em dados simulados e técnicas estatíst
 
 👤 Autor
 Adler Neves
-Projeto desenvolvido para estudo, aprendizado e portfólio.
+
+🚀 Status do Projeto
+🔧 Em desenvolvimento 
